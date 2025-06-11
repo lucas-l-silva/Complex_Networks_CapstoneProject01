@@ -15,6 +15,7 @@ O trabalho consiste na análise de três redes distintas com base em propriedade
 ---
 
 ## 📂 Estrutura do Repositório
+```
 ├── Trabalho1_LucasSilva_ARC.ipynb     # Notebook com todas as análises e gráficos
 ├── trabalho_comp1.ipynb               # Notebook com as instruções do trabalho
 ├── data/                              # Arquivos de dados utilizados
@@ -22,7 +23,7 @@ O trabalho consiste na análise de três redes distintas com base em propriedade
 │   ├── ia-infect-dublin.mtx
 │   └── ia-hospital-ward-proximity-attr.csv
 └── README.md                          
-
+```
 ---
 
 ## 🧪 Tecnologias e Bibliotecas
